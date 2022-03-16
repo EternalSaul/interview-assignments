@@ -8,8 +8,8 @@ import springfox.documentation.oas.annotations.EnableOpenApi;
 @EnableOpenApi
 public class DomainShortenerApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(DomainShortenerApplication.class, args);
-	}
+  public static void main(String[] args) {
+    SpringApplication.run(DomainShortenerApplication.class, args);
+  }
 
 }

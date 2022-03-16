@@ -6,4 +6,5 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @Api(tags = "domain-shorten")
 public class DomainShortenController {
+
 }
